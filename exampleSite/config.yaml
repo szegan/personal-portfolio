@@ -1,6 +1,6 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://szegan.netlify.app"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Sze Gan"
 theme: hugo-profile
 
 Paginate: 3
