@@ -147,8 +147,8 @@ params:
         featured:
           name: Demo
           link: https://szegan.github.io/cny/
-         badges:
-            "Hugo"
+        # badges:
+        #   - "Hugo"
         #   - "Bootstrap"
         #   - "Javascript"
         links:
