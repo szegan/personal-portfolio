@@ -141,14 +141,14 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Hugo Profile
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-        image: /images/projects/profile.png
+      - title: Chinese New Year pop-up card
+        content:
+        image: /images/projects/cny.png
         featured:
           name: Demo
-          link: https://szegan.netlify.app
-        # badges:
-        #   - "Hugo"
+          link: https://szegan.github.io/cny/
+         badges:
+            "Hugo"
         #   - "Bootstrap"
         #   - "Javascript"
         links:
