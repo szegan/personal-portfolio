@@ -142,7 +142,10 @@ params:
     # title: "Custom Name"
     items:
       - title: Chinese New Year pop-up card
-        content:
+        content: Animated 3D pop-up ecard for people to send greetings and celebrate new beginnings 
+        by spreading love and good luck. This virtual pop-up card is built using HTML and pointer 
+        detection functions where users can interact with it by hovering or clicking on their web browser.
+
         image: /images/projects/cny.png
         featured:
           name: Demo
