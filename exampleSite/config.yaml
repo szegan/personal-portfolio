@@ -66,8 +66,8 @@ params:
   #   textAlign: right # default: left
 
   # color preference
-   color:
-     textColor: black
+  # color:
+  #   textColor:
   #   secondaryTextColor:
   #   backgroundColor:
   #   secondaryBackgroundColor:
