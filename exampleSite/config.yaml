@@ -67,7 +67,7 @@ params:
 
   # color preference
    color:
-     textColor: black;
+     textColor: black
   #   secondaryTextColor:
   #   backgroundColor:
   #   secondaryBackgroundColor:
