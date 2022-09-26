@@ -170,9 +170,6 @@ params:
         featured:
           name: More info
           link: https://django-converter.herokuapp.com
-         badges:
-           - "Django"
-           - "Bootstrap"
         links:
           - icon: fab fa-figma
 
