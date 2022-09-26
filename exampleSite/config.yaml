@@ -13,12 +13,12 @@ markup:
       unsafe: true
 
 Menus:
-  main:
-    # - identifier: blog
-    #   name: Blog
-    #   title: Blog posts
-    #   url: /blogs
-    #   weight: 1
+  # main:
+  #   - identifier: blog
+  #     name: Blog
+  #     title: Blog posts
+  #     url: /blogs
+  #     weight: 1
 
   # main:
   #   - identifier: blog
