@@ -155,10 +155,6 @@ params:
         featured:
           name: Demo
           link: https://szegan.github.io/cny/
-        # badges:
-        #   - "Hugo"
-        #   - "Bootstrap"
-        #   - "Javascript"
         links:
           - icon: fab fa-html5
           - icon: fab fa-css3-alt
@@ -170,9 +166,6 @@ params:
         featured:
           name: More info
           link: https://django-converter.herokuapp.com
-        # badges:
-        #   - "Django"
-        #   - "Bootstrap"
         links:
           - icon: fab fa-figma
 
@@ -182,10 +175,6 @@ params:
         featured:
           name: Demo V2
           link: https://hugo-profile-2.netlify.app
-        # badges:
-        #   - "Hugo"
-        #   - "Bootstrap"
-        #   - "Javascript"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/HugoProfileV2
@@ -195,7 +184,7 @@ params:
     enable: true
     #title: "Custom name"
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-    email: gurusabarisha@gmail.com
+    email: szemingan@gmail.com
     btnName: Mail me
 
   footer:
