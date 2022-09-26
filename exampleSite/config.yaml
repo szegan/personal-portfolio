@@ -13,12 +13,12 @@ markup:
       unsafe: true
 
 Menus:
-  # main:
-  #   - identifier: blog
-  #     name: Blog
-  #     title: Blog posts
-  #     url: /blogs
-  #     weight: 1
+  main:
+    - identifier: blog
+      name: Blog
+      title: Blog posts
+      url: /blogs
+      weight: 1
 
   - identifier: gallery
     name: Gallery
@@ -142,7 +142,9 @@ params:
     # title: "Custom Name"
     items:
       - title: Chinese New Year pop-up card
-        content: Animated 3D pop-up ecard for people to send greetings and celebrate new beginnings by spreading love and good luck. This virtual pop-up card is built using HTML and pointer detection functions where users can interact with it by hovering or clicking on their web browser.
+        content: Animated 3D pop-up ecard for people to send greetings and celebrate new beginnings by spreading love and good luck. 
+        This virtual pop-up card is built using HTML and pointer detection functions where users can interact with it by hovering 
+        or clicking on their web browser.
 
         image: /images/projects/cny.png
         featured:
@@ -153,18 +155,16 @@ params:
         #   - "Bootstrap"
         #   - "Javascript"
         links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
-          - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+          - icon: fa fa-html5
+            # url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-css3-alt
+          - icon: fab fa-js-square
 
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-        image: /images/projects/converter.jpg
+      - title: COVIDWISE
+        content: A mobile app that makes COVID-19 updates information transparent & accessible for users in the community.
+        image: /images/projects/covidapp.jpg
         featured:
-          name: Demo
+          name: More Info
           link: https://django-converter.herokuapp.com
         # badges:
         #   - "Django"
