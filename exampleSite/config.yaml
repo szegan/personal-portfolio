@@ -14,6 +14,7 @@ markup:
 
 Menus:
 <<<<<<< HEAD
+<<<<<<< HEAD
   main:
     # - identifier: blog
     #   name: Blog
@@ -21,12 +22,17 @@ Menus:
     #   url: /blogs
     #   weight: 1
 =======
+=======
+>>>>>>> parent of c8bd93d (Update project #2)
   # main:
   #   - identifier: blog
   #     name: Blog
   #     title: Blog posts
   #     url: /blogs
   #     weight: 1
+<<<<<<< HEAD
+>>>>>>> parent of c8bd93d (Update project #2)
+=======
 >>>>>>> parent of c8bd93d (Update project #2)
 
     # - identifier: gallery
@@ -174,7 +180,11 @@ params:
         image: /images/projects/converter.jpg
         featured:
 <<<<<<< HEAD
+<<<<<<< HEAD
           name: More info
+=======
+          name: Demo
+>>>>>>> parent of c8bd93d (Update project #2)
 =======
           name: Demo
 >>>>>>> parent of c8bd93d (Update project #2)
