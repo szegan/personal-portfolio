@@ -13,33 +13,25 @@ markup:
       unsafe: true
 
 Menus:
-<<<<<<< HEAD
-<<<<<<< HEAD
   main:
     # - identifier: blog
     #   name: Blog
     #   title: Blog posts
     #   url: /blogs
     #   weight: 1
-=======
-=======
->>>>>>> parent of c8bd93d (Update project #2)
+
   # main:
   #   - identifier: blog
   #     name: Blog
   #     title: Blog posts
   #     url: /blogs
   #     weight: 1
-<<<<<<< HEAD
->>>>>>> parent of c8bd93d (Update project #2)
-=======
->>>>>>> parent of c8bd93d (Update project #2)
 
-    # - identifier: gallery
-    #   name: Gallery
-    #   title: Blog posts
-    #   url: /gallery
-    #   weight: 2
+  # - identifier: gallery
+  #   name: Gallery
+  #   title: Blog posts
+  #   url: /gallery
+  #   weight: 2
 
   #Dropdown menu
   # - identifier: dropdown
@@ -179,15 +171,7 @@ params:
         content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
         image: /images/projects/converter.jpg
         featured:
-<<<<<<< HEAD
-<<<<<<< HEAD
-          name: More info
-=======
           name: Demo
->>>>>>> parent of c8bd93d (Update project #2)
-=======
-          name: Demo
->>>>>>> parent of c8bd93d (Update project #2)
           link: https://django-converter.herokuapp.com
         # badges:
         #   - "Django"
