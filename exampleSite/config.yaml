@@ -166,13 +166,13 @@ params:
 
       - title: COVIDWISE
         content: A mobile app that is design to make COVID-19 news and updates transparents & accessible for users in the community.
-        image: /images/projects/covidapp.jpg
+        image: /images/projects/covidapp.png
         featured:
           name: More info
           link: https://django-converter.herokuapp.com
-        # badges:
-        #   - "Django"
-        #   - "Bootstrap"
+         badges:
+           - "Django"
+           - "Bootstrap"
         links:
           - icon: fab fa-figma
 
