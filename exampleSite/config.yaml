@@ -153,16 +153,18 @@ params:
         #   - "Bootstrap"
         #   - "Javascript"
         links:
-          - icon: fa fa-html5
-            # url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-css3-alt
-          - icon: fab fa-js-square
+          - icon: fa fa-envelope
+            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/gurusabarish/hugo-profile
+          - icon: fab fa-twitter
+            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
       - title: COVIDWISE
         content: A mobile app that makes COVID-19 updates information transparent & accessible for users in the community.
         image: /images/projects/covidapp.jpg
         featured:
-          name: More Info
+          name: More info
           link: https://django-converter.herokuapp.com
         # badges:
         #   - "Django"
