@@ -18,3 +18,8 @@ hugo.linux
 # Temporary lock file while building
 /.hugo_build.lock
 .DS_Store
+exampleSite/config.yaml
+exampleSite/static/images/projects/covidapp.png
+exampleSite/static/images/projects/profile.png
+layouts/partials/sections/footer/index.html
+layouts/partials/sections/footer/socialNetwork.html

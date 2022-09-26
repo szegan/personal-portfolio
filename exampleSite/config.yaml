@@ -13,12 +13,21 @@ markup:
       unsafe: true
 
 Menus:
+<<<<<<< HEAD
   main:
     # - identifier: blog
     #   name: Blog
     #   title: Blog posts
     #   url: /blogs
     #   weight: 1
+=======
+  # main:
+  #   - identifier: blog
+  #     name: Blog
+  #     title: Blog posts
+  #     url: /blogs
+  #     weight: 1
+>>>>>>> parent of c8bd93d (Update project #2)
 
     # - identifier: gallery
     #   name: Gallery
@@ -160,11 +169,15 @@ params:
           - icon: fab fa-twitter
             url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
-      - title: COVIDWISE
-        content: A mobile app that makes COVID-19 updates information transparent & accessible for users in the community.
-        image: /images/projects/covidapp.jpg
+      - title: Image Converter
+        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
+        image: /images/projects/converter.jpg
         featured:
+<<<<<<< HEAD
           name: More info
+=======
+          name: Demo
+>>>>>>> parent of c8bd93d (Update project #2)
           link: https://django-converter.herokuapp.com
         # badges:
         #   - "Django"
