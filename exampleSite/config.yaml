@@ -189,9 +189,9 @@ params:
 
   footer:
     # recentPosts: false
-    socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+    # socialNetworks:
+    #   github: https://github.com
+    #   linkedin: https://linkedin.com
+    #   twitter: https://twitter.com
+    #   instagram: https://instagram.com
+    #   facebook: https://facebook.com
