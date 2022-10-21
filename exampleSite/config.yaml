@@ -149,8 +149,7 @@ params:
     # title: "Custom Name"
     items:
       - title: Chinese New Year pop-up card
-        content: Animated 3D pop-up ecard for people to send greetings and celebrate new beginnings by spreading love and good luck. This virtual pop-up card is built using HTML and pointer detection functions where users can interact with it by hovering or clicking on their web browser.
-
+        content: Animated 3D pop-up ecard for people to send greetings and celebrate new beginnings by spreading love and good luck. This virtual pop-up card is built using HTML and pointer detection functions where users can interact with it on their web browser.
         image: /images/projects/cny.png
         featured:
           name: Demo
@@ -169,21 +168,21 @@ params:
         links:
           - icon: fab fa-figma
 
-      - title: Hugo Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
+      - title: Tic Tac Toe
+        content: A mini game for two players who take turns marking the spaces in a 3x3 grid with X or O.
+        image: /images/projects/tictactoe.png
         featured:
           name: Demo V2
-          link: https://hugo-profile-2.netlify.app
+          link: https://szegan.github.io/tictactoe/
         links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
-
+          - icon: fab fa-html5
+          - icon: fab fa-css3-alt
+          - icon: fab fa-js-square
   #Contact
   contact:
     enable: true
     #title: "Custom name"
-    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+    # content: Come say hello.  I’ll try my best to get back to you!
     email: szemingan@gmail.com
     btnName: Mail me
 
