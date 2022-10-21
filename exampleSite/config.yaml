@@ -157,7 +157,7 @@ params:
         image: /images/projects/covidapp.jpg
         featured:
           name: More info
-          link: https://szegan.netlify.app/gallery/
+          link: https://szegan.netlify.app/blogs/markdown-syntax/
         links:
           - icon: fab fa-figma
 
