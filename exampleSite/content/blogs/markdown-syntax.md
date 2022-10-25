@@ -14,6 +14,7 @@ toc:
 ## Overview
 
 During the pandemic, the government has gone through several stages of restrictions that put in place to minimise the impact of COVID-19 on the community. The volume, frequency and changing nature of the information communicated during a pandemic can be difficult for many people in the community to ensure they are following restrictions and recommendations correctly. COVIDWISE is a mobile application design that helps to make the information transparent, easy to understand, and accessible for users in the community.
+<br>
 
 ## Process
 
@@ -29,36 +30,36 @@ Before designing the user personas, data gathered were explored and analysed to 
       <div class="row justify-content-center">
           <div class="col-md-6 p-0 m-0">
               <div class="card p-0 m-0 border-0">
-                <img class="w-100" height="300px" src="/images/persona1.png">
+                <img class="w-100" height="350px" src="/images/persona1.png">
               </div>
           </div>
           <div class="col-md-6 p-0 m-0">
               <div class="card p-0 m-0 border-0">
-                <img class="w-100" height="300px" src="/images/persona2.png">
-              </div>
-          </div>
-      </div>
-      <div class="row justify-content-center">
-          <div class="col-md-6 p-0 m-0">
-              <div class="card p-0 m-0 border-0">
-                <img class="w-100" height="300px" src="/images/persona3.png">
-              </div>
-          </div>
-          <div class="col-md-6 p-0 m-0">
-              <div class="card p-0 m-0 border-0">
-                <img class="w-100" height="300px" src="/images/persona4.png">
+                <img class="w-100" height="350px" src="/images/persona2.png">
               </div>
           </div>
       </div>
       <div class="row justify-content-center">
           <div class="col-md-6 p-0 m-0">
               <div class="card p-0 m-0 border-0">
-                <img class="w-100" height="300px" src="/images/persona5.png">
+                <img class="w-100" height="350px" src="/images/persona3.png">
               </div>
           </div>
           <div class="col-md-6 p-0 m-0">
               <div class="card p-0 m-0 border-0">
-                <img class="w-100" height="300px" src="/images/persona6.png">
+                <img class="w-100" height="350px" src="/images/persona4.png">
+              </div>
+          </div>
+      </div>
+      <div class="row justify-content-center">
+          <div class="col-md-6 p-0 m-0">
+              <div class="card p-0 m-0 border-0">
+                <img class="w-100" height="350px" src="/images/persona5.png">
+              </div>
+          </div>
+          <div class="col-md-6 p-0 m-0">
+              <div class="card p-0 m-0 border-0">
+                <img class="w-100" height="350px" src="/images/persona6.png">
               </div>
           </div>
       </div>
@@ -74,16 +75,15 @@ Wireframes are designed with Figma to work out the information architecture of e
 
 <!-------------------------------------------------->
 
-##
-
-##
+<br>
+<br>
 
 ## Key Takeaways
 
-### Design thinking is key to effective products
+### Number 1: Design thinking is the key to effective products
 
 This lean framework has helped me to understand the users better and redefine problems that resulted in innovative solutions.
 
-### Design is a never ending process
+### Nunber 2: Design is a never ending process
 
 Design is for solving the problems, and the problems are never finished. A continuous improvement approach is a mindset that should be embrace on every project.
