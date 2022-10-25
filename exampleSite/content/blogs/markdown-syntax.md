@@ -15,6 +15,7 @@ toc:
 
 During the pandemic, the government has gone through several stages of restrictions that put in place to minimise the impact of COVID-19 on the community. The volume, frequency and changing nature of the information communicated during a pandemic can be difficult for many people in the community to ensure they are following restrictions and recommendations correctly. COVIDWISE is a mobile application design that helps to make the information transparent, easy to understand, and accessible for users in the community.
 <br>
+<br>
 
 ## Process
 
@@ -80,12 +81,8 @@ Wireframes are designed with Figma to work out the information architecture of e
 
 ## Key Takeaways
 
-### Number 1
-
 <strong>Design thinking is the key to effective products.</strong><br>
 This lean framework has helped me to understand the users better and redefine problems that resulted in innovative solutions.
-
-### Nunber 2
 
 <strong>Design is a never ending process.</strong><br>
 Design is for solving the problems, and the problems are never finished. A continuous improvement approach is a mindset that should be embrace on every project.
