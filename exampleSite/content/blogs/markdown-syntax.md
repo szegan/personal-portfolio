@@ -125,7 +125,7 @@ Tables aren't part of the core Markdown spec, but Hugo supports supports them ou
 
 The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
 
-# What
+# H1
 
 ## H2
 
