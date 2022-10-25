@@ -102,8 +102,9 @@ params:
     intro: "Hi, my name is"
     title: "Sze."
     subtitle: "I build things for the web"
-    content: "A passionate self-taught front-end developer. <br> I design and code beautifully simple things."
-    image: "/images/profile.png"
+    content: "A passionate self-taught front-end developer. <br> I design and code beautifully simple things. <br> 
+    I am passionate about creating user friendly applications. "
+
     button:
       enable: true
       name: "Resume"
@@ -123,7 +124,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: /images/profile2.png
+    image: "/images/profile.png"
     content: |-
       I am a fresh graduate with a passion for web development. I have a background in Business Information System. 
       I am open for new opportunities and interesting projects.
