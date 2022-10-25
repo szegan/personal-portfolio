@@ -102,7 +102,9 @@ params:
     intro: "Hi, my name is"
     title: "Sze."
     subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    content: "A passionate web app developer. 
+    I tend to make use of modern web technologies to build websites that looks great, 
+    feels fantastic, and functions correctly."
     image: /images/hero.svg
     button:
       enable: true
@@ -125,8 +127,9 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a fresh graduate with a passion for web development. I have a background in Business Information System, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
-
+      I am a fresh graduate with a passion for web development. I have a background in Business Information System,
+      and I have a strong interest in the intersection of technology and art. I am currently working as a software developer
+      at [example org.](https://example.com) in San Francisco, CA. 
       I am currently working on a project that will be used to help people find the best way to get around the city.
     skills:
       enable: true
@@ -139,7 +142,7 @@ params:
   # projects
   projects:
     enable: true
-    title: "Recent Project"
+    title: "Recent Projecs"
     items:
       - title: Chinese New Year pop-up card
         content: Animated 3D pop-up ecard for people to send greetings and celebrate new beginnings by spreading love and good luck. This virtual pop-up card is built using HTML and pointer detection functions where users can interact with it on their web browser.
