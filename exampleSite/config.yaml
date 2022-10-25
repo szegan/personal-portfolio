@@ -109,15 +109,15 @@ params:
       name: "Resume"
       url: "#"
       download: true
-    socialLinks:
-      fontAwesomeIcons:
-        - icon: fab fa-github
-          url: https://example.com
-        - icon: fab fa-twitter
-          url: https://example.com
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+    # socialLinks:
+    #   fontAwesomeIcons:
+    #     - icon: fab fa-github
+    #       url: https://example.com
+    #     - icon: fab fa-twitter
+    #       url: https://example.com
+    #   customIcons:
+    #     - icon: /fav.png
+    #       url: "https://example.com"
 
   # About
   about:
@@ -165,7 +165,7 @@ params:
         content: A mini game for two players who take turns marking the spaces in a 3x3 grid with X or O.
         image: /images/projects/tictactoe.png
         featured:
-          name: Demo V2
+          name: Demo
           link: https://szegan.github.io/tictactoe/
         links:
           - icon: fab fa-html5
