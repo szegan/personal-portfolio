@@ -103,7 +103,7 @@ params:
     title: "Sze."
     subtitle: "I build things for the web"
     content: "A passionate self-taught front-end developer. <br> I design and code beautifully simple things."
-    image: /images/profile.png
+    image: "/images/profile.png"
     button:
       enable: true
       name: "Resume"
