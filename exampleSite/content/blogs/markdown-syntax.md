@@ -12,6 +12,7 @@ role: "Role"
 image: /images/covidapp.jpg
 description: ""
 toc:
+persona: /images/persona1.png
 ---
 
 <!--more-->
@@ -29,8 +30,6 @@ Data are gathered with questionnaires with both open and close questions. A tota
 ### User Personas
 
 Before designing the user personas, data gathered were explored and analysed to form a general idea of the various users with different attributes and how they differ from one another.
-
-# image: /images/persona1.png
 
 ### User Stories
 
