@@ -3,7 +3,7 @@ title: "COVIDWISE"
 # date: 2021-04-03T23:29:21+05:30
 # draft: false
 # github_link: "https://github.com/gurusabarish/hugo-profile"
-# role: "Product Designer"
+role: "Role"
 # tags:
 #   - Markdown syntax
 #   - Sample
@@ -22,19 +22,19 @@ During the pandemic, the government has gone through several stages of restricti
 
 ## Process
 
-##### Data Gathering
+### Data Gathering
 
 Data are gathered with questionnaires with both open and close questions. A total of 73 responses were received. The result revealed that most of the users stay updated with the COVID-related information, however, there are a total of 47.4% of the respondents find it difficult to receive that information. The system needs to consider the users’ concerns related to COVID such as privacy concerns, risk of getting infected, misinformation and no access to testing sites.
 
-##### User Personas
+### User Personas
 
 Before designing the user personas, data gathered were explored and analysed to form a general idea of the various users with different attributes and how they differ from one another.
 
-##### User Stories
+### User Stories
 
 This provides a chance to envision the types of functionalities that could be incorporated into our designs. In this process, the focus is on each persona’s pain points and concerns. The user stories were ranked using the MoSCoW method to get a sense of the more important requirements in our application.
 
-##### Low-fidelity & High-fidelity prototype
+### Low-fidelity & High-fidelity prototype
 
 Wireframes are designed with Figma to work out the information architecture of each page. Throughout the process, the concepts were reviewed and continued to iterate until pages felt right.
 
@@ -42,10 +42,10 @@ Wireframes are designed with Figma to work out the information architecture of e
 
 ## Key Takeaways
 
-##### Design thinking is key to effective products
+### Design thinking is key to effective products
 
 This lean framework has helped me to understand the users better and redefine problems that resulted in innovative solutions.
 
-##### Design is a never ending process
+### Design is a never ending process
 
 Design is for solving the problems, and the problems are never finished. A continuous improvement approach is a mindset that should be embrace on every project.
