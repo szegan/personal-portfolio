@@ -25,28 +25,17 @@ Data are gathered with questionnaires with both open and close questions. A tota
 
 Before designing the user personas, data gathered were explored and analysed to form a general idea of the various users with different attributes and how they differ from one another.
 
-<!--
-<div class="card-group p-4">
-        <div class="row justify-content-center">
-          <img class="w-100" height="280px" src="/images/persona1.png">
-          <img class="w-100" height="280px" src="/images/persona2.png">
-          <img class="w-100" height="280px" src="/images/persona3.png">
-          <img class="w-100" height="280px" src="/images/persona4.png">
-          <img class="w-100" height="280px" src="/images/persona5.png">
-          <img class="w-100" height="280px" src="/images/persona6.png">
-        </div>
-    </div> -->
-
   <div class="card-group p-4">
       <div class="row justify-content-center">
           <div class="col-md-4 p-0 m-0">
               <div class="card p-0 m-0 border-0">
                 <img class="w-100" height="280px" src="/images/persona1.png">
-                <img class="w-100" height="280px" src="/images/persona2.png">
-                <img class="w-100" height="280px" src="/images/persona3.png">
-                <img class="w-100" height="280px" src="/images/persona4.png">
-                <img class="w-100" height="280px" src="/images/persona5.png">
-                <img class="w-100" height="280px" src="/images/persona6.png">
+              </div>
+              <div class="card p-0 m-0 border-0">
+                <img class="w-100" height="280px" src="/images/persona1.png">
+              </div>
+              <div class="card p-0 m-0 border-0">
+                <img class="w-100" height="280px" src="/images/persona1.png">
               </div>
           </div>
       </div>
