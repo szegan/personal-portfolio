@@ -102,9 +102,7 @@ params:
     intro: "Hi, my name is"
     title: "Sze."
     subtitle: "I build things for the web"
-    content: "A passionate self-taught front-end developer. 
-    I want to learn to make use of modern web technologies to build websites that looks great, 
-    feels fantastic, and functions correctly."
+    content: "A passionate self-taught front-end developer. I design and code beautifully simple things."
     image: /images/profile.png
     button:
       enable: true
@@ -125,10 +123,10 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: /images/profile2.png
+    image: /images/profile2.pngs
     content: |-
-      I am a fresh graduate with a passion for web development. I have a background in Business Information System,
-      with a strong interest in the intersection of technology and art. I am constantly looking to learn new things everyday.
+      I am a fresh graduate with a passion for web development. I have a background in Business Information System. 
+      I am open for new opportunities and interesting projects.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
