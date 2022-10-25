@@ -32,6 +32,21 @@ Data are gathered with questionnaires with both open and close questions. A tota
 
 Before designing the user personas, data gathered were explored and analysed to form a general idea of the various users with different attributes and how they differ from one another.
 
+<div class="card-group p-4">
+        <div class="row justify-content-center">
+            <div class="col-md-4 p-0 m-0">
+                <div class="card p-0 m-0 border-0">
+                    <img class="w-100" height="280px" src="/images/persona1">
+                    <img class="w-100" height="280px" src="/images/persona2">
+                    <img class="w-100" height="280px" src="/images/persona3">
+                    <img class="w-100" height="280px" src="/images/persona4">
+                    <img class="w-100" height="280px" src="/images/persona5">
+                    <img class="w-100" height="280px" src="/images/persona6">
+                </div>
+            </div>
+        </div>
+    </div>
+
 ### User Stories
 
 This provides a chance to envision the types of functionalities that could be incorporated into our designs. In this process, the focus is on each persona’s pain points and concerns. The user stories were ranked using the MoSCoW method to get a sense of the more important requirements in our application.
