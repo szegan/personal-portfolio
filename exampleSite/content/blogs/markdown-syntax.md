@@ -80,10 +80,12 @@ Wireframes are designed with Figma to work out the information architecture of e
 
 ## Key Takeaways
 
-### Number 1: Design thinking is the key to effective products
+### Number 1
 
+<strong>Design thinking is the key to effective products.</strong><br>
 This lean framework has helped me to understand the users better and redefine problems that resulted in innovative solutions.
 
-### Nunber 2: Design is a never ending process
+### Nunber 2
 
+<strong>Design is a never ending process.</strong><br>
 Design is for solving the problems, and the problems are never finished. A continuous improvement approach is a mindset that should be embrace on every project.
