@@ -3,7 +3,6 @@ title: "COVIDWISE"
 # date: 2021-04-03T23:29:21+05:30
 # draft: false
 # github_link: "https://github.com/gurusabarish/hugo-profile"
-role1: "Role"
 role2: "Product Designer"
 # tags:
 #   - Markdown syntax
@@ -24,8 +23,6 @@ This article offers a sample of basic Markdown syntax that can be used in Hugo c
 During the pandemic, the government has gone through several stages of restrictions that put in place to minimise the impact of COVID-19 on the community. The volume, frequency and changing nature of the information communicated during a pandemic can be difficult for many people in the community to ensure they are following restrictions and recommendations correctly. COVIDWISE is a mobile application design that helps to make the information transparent, easy to understand, and accessible for users in the community.
 
 ## Process
-
-#### User Analysis
 
 ##### Data Gathering
 
