@@ -2,12 +2,7 @@
 title: "COVIDWISE"
 # date: 2021-04-03T23:29:21+05:30
 # draft: false
-# github_link: "https://github.com/gurusabarish/hugo-profile"
 role: "Role"
-# tags:
-#   - Markdown syntax
-#   - Sample
-#   - example
 # image: /images/post.jpg
 image: /images/covidapp.jpg
 description: ""
