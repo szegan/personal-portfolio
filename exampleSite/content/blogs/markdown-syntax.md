@@ -30,6 +30,8 @@ Data are gathered with questionnaires with both open and close questions. A tota
 
 Before designing the user personas, data gathered were explored and analysed to form a general idea of the various users with different attributes and how they differ from one another.
 
+# image: /images/persona1.png
+
 ### User Stories
 
 This provides a chance to envision the types of functionalities that could be incorporated into our designs. In this process, the focus is on each persona’s pain points and concerns. The user stories were ranked using the MoSCoW method to get a sense of the more important requirements in our application.
