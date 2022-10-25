@@ -19,10 +19,15 @@
           <div class="title mb-5">
             <h1 class="text-center mb-4">{{ .Title }}</h1>
             <div class="text-center">
-              {{ .Params.author }} 
+              {{ .Params.role1}} 
               <small>|</small>
-              <!-- {{ .Date.Format "Jan 2, 2006" }} -->
+              {{ .Params.role2}}
             </div>
+
+            <div class="text-center">
+              <h5>User research | Visual design | Prototyping</h5>>
+            </div>
+
           </div>
           {{ if .Params.image }}
           <div class="featured-image">
