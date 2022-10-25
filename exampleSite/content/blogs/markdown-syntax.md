@@ -3,7 +3,7 @@ title: "COVIDWISE"
 # date: 2021-04-03T23:29:21+05:30
 # draft: false
 # github_link: "https://github.com/gurusabarish/hugo-profile"
-role2: "Product Designer"
+# role: "Product Designer"
 # tags:
 #   - Markdown syntax
 #   - Sample
@@ -13,8 +13,6 @@ image: /images/covidapp.jpg
 description: ""
 toc:
 ---
-
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
 
 <!--more-->
 
@@ -36,7 +34,21 @@ Before designing the user personas, data gathered were explored and analysed to 
 
 This provides a chance to envision the types of functionalities that could be incorporated into our designs. In this process, the focus is on each persona’s pain points and concerns. The user stories were ranked using the MoSCoW method to get a sense of the more important requirements in our application.
 
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
+##### Low-fidelity & High-fidelity prototype
+
+Wireframes are designed with Figma to work out the information architecture of each page. Throughout the process, the concepts were reviewed and continued to iterate until pages felt right.
+
+<!-------------------------------------------------->
+
+## Key Takeaways
+
+##### Design thinking is key to effective products
+
+This lean framework has helped me to understand the users better and redefine problems that resulted in innovative solutions.
+
+##### Design is a never ending process
+
+Design is for solving the problems, and the problems are never finished. A continuous improvement approach is a mindset that should be embrace on every project.
 
 ### Blockquote without attribution
 
