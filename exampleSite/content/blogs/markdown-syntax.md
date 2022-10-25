@@ -29,36 +29,36 @@ Before designing the user personas, data gathered were explored and analysed to 
       <div class="row justify-content-center">
           <div class="col-md-6 p-0 m-0">
               <div class="card p-0 m-0 border-0">
-                <img class="w-100" height="280px" src="/images/persona1.png">
+                <img class="w-100" height="300px" src="/images/persona1.png">
               </div>
           </div>
           <div class="col-md-6 p-0 m-0">
               <div class="card p-0 m-0 border-0">
-                <img class="w-100" height="280px" src="/images/persona2.png">
-              </div>
-          </div>
-      </div>
-      <div class="row justify-content-center">
-          <div class="col-md-6 p-0 m-0">
-              <div class="card p-0 m-0 border-0">
-                <img class="w-100" height="280px" src="/images/persona3.png">
-              </div>
-          </div>
-          <div class="col-md-6 p-0 m-0">
-              <div class="card p-0 m-0 border-0">
-                <img class="w-100" height="280px" src="/images/persona4.png">
+                <img class="w-100" height="300px" src="/images/persona2.png">
               </div>
           </div>
       </div>
       <div class="row justify-content-center">
           <div class="col-md-6 p-0 m-0">
               <div class="card p-0 m-0 border-0">
-                <img class="w-100" height="280px" src="/images/persona5.png">
+                <img class="w-100" height="300px" src="/images/persona3.png">
               </div>
           </div>
           <div class="col-md-6 p-0 m-0">
               <div class="card p-0 m-0 border-0">
-                <img class="w-100" height="280px" src="/images/persona6.png">
+                <img class="w-100" height="300px" src="/images/persona4.png">
+              </div>
+          </div>
+      </div>
+      <div class="row justify-content-center">
+          <div class="col-md-6 p-0 m-0">
+              <div class="card p-0 m-0 border-0">
+                <img class="w-100" height="300px" src="/images/persona5.png">
+              </div>
+          </div>
+          <div class="col-md-6 p-0 m-0">
+              <div class="card p-0 m-0 border-0">
+                <img class="w-100" height="300px" src="/images/persona6.png">
               </div>
           </div>
       </div>
@@ -73,6 +73,10 @@ This provides a chance to envision the types of functionalities that could be in
 Wireframes are designed with Figma to work out the information architecture of each page. Throughout the process, the concepts were reviewed and continued to iterate until pages felt right.
 
 <!-------------------------------------------------->
+
+##
+
+##
 
 ## Key Takeaways
 
