@@ -102,7 +102,7 @@ params:
     intro: "Hi, my name is"
     title: "Sze."
     subtitle: "I build things for the web"
-    content: "A passionate self-taught front-end developer. I design and code beautifully simple things."
+    content: "A passionate self-taught front-end developer. <br> I design and code beautifully simple things."
     image: /images/profile.png
     button:
       enable: true
