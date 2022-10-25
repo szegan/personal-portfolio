@@ -3,7 +3,8 @@ title: "COVIDWISE"
 # date: 2021-04-03T23:29:21+05:30
 # draft: false
 # github_link: "https://github.com/gurusabarish/hugo-profile"
-# author: "Gurusabarish"
+role1: "Role"
+role2: "Product Designer"
 # tags:
 #   - Markdown syntax
 #   - Sample
@@ -18,11 +19,9 @@ This article offers a sample of basic Markdown syntax that can be used in Hugo c
 
 <!--more-->
 
-## Paragraph
+## Overview
 
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
-
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
+During the pandemic, the government has gone through several stages of restrictions that put in place to minimise the impact of COVID-19 on the community. The volume, frequency and changing nature of the information communicated during a pandemic can be difficult for many people in the community to ensure they are following restrictions and recommendations correctly. COVIDWISE is a mobile application design that helps to make the information transparent, easy to understand, and accessible for users in the community.
 
 ## Blockquotes
 
