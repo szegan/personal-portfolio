@@ -125,7 +125,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: /images/profile2.png
     content: |-
       I am a fresh graduate with a passion for web development. I have a background in Business Information System,
       with a strong interest in the intersection of technology and art. I am constantly looking to learn new things everyday.
