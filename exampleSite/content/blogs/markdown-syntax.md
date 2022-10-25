@@ -30,11 +30,7 @@ Before designing the user personas, data gathered were explored and analysed to 
           <div class="col-md-4 p-0 m-0">
               <div class="card p-0 m-0 border-0">
                 <img class="w-100" height="280px" src="/images/persona1.png">
-              </div>
-              <div class="card p-0 m-0 border-0">
                 <img class="w-100" height="280px" src="/images/persona1.png">
-              </div>
-              <div class="card p-0 m-0 border-0">
                 <img class="w-100" height="280px" src="/images/persona1.png">
               </div>
           </div>
