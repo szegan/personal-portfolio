@@ -1,25 +1,20 @@
 ---
-
 title: "COVIDWISE"
-
 # date: 2021-04-03T23:29:21+05:30
-
 # draft: false
-
 role: "Role"
-
 # image: /images/post.jpg
-
 image: /images/covidapp.jpg
+images:
+  - src: /images/persona1.png
+  - src: /images/persona2.png
+  - src: /images/persona3.png
+  - src: /images/persona4.png
+  - src: /images/persona5.png
+  - src: /images/persona6.png
 description: ""
 toc:
-images:
-
-- src: /images/persona1.png
-- src: /images/persona2.png
-- src: /images/persona3.png
-- src: /images/persona4.png
-- src: /images/persona5.png
+---
 
 <!--more-->
 
