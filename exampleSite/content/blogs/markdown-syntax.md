@@ -6,7 +6,7 @@ role: "Role"
 # image: /images/post.jpg
 image: /images/covidapp.jpg
 description: ""
-toc: false
+toc:
 ---
 
 <!--more-->
@@ -30,7 +30,15 @@ Before designing the user personas, data gathered were explored and analysed to 
           <div class="col-md-4 p-0 m-0">
               <div class="card p-0 m-0 border-0">
                 <img class="w-100" height="280px" src="/images/persona1.png">
+              </div>
+          </div>
+          <div class="col-md-4 p-0 m-0">
+              <div class="card p-0 m-0 border-0">
                 <img class="w-100" height="280px" src="/images/persona1.png">
+              </div>
+          </div>
+          <div class="col-md-4 p-0 m-0">
+              <div class="card p-0 m-0 border-0">
                 <img class="w-100" height="280px" src="/images/persona1.png">
               </div>
           </div>
