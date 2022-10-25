@@ -23,7 +23,21 @@ This article offers a sample of basic Markdown syntax that can be used in Hugo c
 
 During the pandemic, the government has gone through several stages of restrictions that put in place to minimise the impact of COVID-19 on the community. The volume, frequency and changing nature of the information communicated during a pandemic can be difficult for many people in the community to ensure they are following restrictions and recommendations correctly. COVIDWISE is a mobile application design that helps to make the information transparent, easy to understand, and accessible for users in the community.
 
-## Blockquotes
+## Process
+
+#### User Analysis
+
+##### Data Gathering
+
+For initial explorations & research, the data are gathered with questionnaires with both open and close questions. A total of 73 responses were received. The result revealed that most of the users stay updated with the COVID-related information, however, there are a total of 47.4% of the respondents find it difficult to receive that information. The system needs to consider the users’ concerns related to COVID such as privacy concerns, risk of getting infected, misinformation and no access to testing sites.
+
+##### User Personas
+
+Before designing the user personas, data gathered were explored and analysed to form a general idea of the various users with different attributes and how they differ from one another.
+
+##### User Stories
+
+This provides a chance to envision the types of functionalities that could be incorporated into our designs. In this process, the focus is on each persona’s pain points and concerns. The user stories were ranked using the MoSCoW method to get a sense of the more important requirements in our application.
 
 The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
 
