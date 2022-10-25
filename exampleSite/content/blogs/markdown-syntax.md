@@ -13,7 +13,7 @@ images:
   - src: /images/persona5.png
   - src: /images/persona6.png
 description: ""
-toc:
+toc: false
 ---
 
 <!--more-->
